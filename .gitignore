@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+dataset
+
+data/
+
+MarketTrendAnalysis.ipynb
+
+.vscode/
+
+upload/
+
+active_levels_summary.json
